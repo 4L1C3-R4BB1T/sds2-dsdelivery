@@ -1,7 +1,7 @@
-import './styles.css';
-import { ReactComponent as InstagramIcon } from './instagram.svg';
-import { ReactComponent as LinkedinIcon } from './linkedin.svg';
-import { ReactComponent as YoutubeIcon } from './youtube.svg';
+import "./styles.css";
+import { ReactComponent as InstagramIcon } from "./instagram.svg";
+import { ReactComponent as LinkedinIcon } from "./linkedin.svg";
+import { ReactComponent as YoutubeIcon } from "./youtube.svg";
 
 function Footer() {
     return (
@@ -14,7 +14,7 @@ function Footer() {
                 <a href="https://www.linkedin.com/school/devsuperior/" target="_new">
                     <LinkedinIcon />
                 </a>
-                <a href="https://www.instagram.com/devsuperior.ig/">
+                <a href="https://www.instagram.com/devsuperior.ig/" target="_new">
                     <InstagramIcon />
                 </a>
             </div>
