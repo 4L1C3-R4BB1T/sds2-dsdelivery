@@ -2,29 +2,29 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/blob/main/LICENSE) 
 
 # Sobre o projeto
-DS Delivery é uma aplicação construída durante a 2ª edição da **Semana DevSuperior** (#sds2), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DS Delivery é uma aplicação construída durante a 2ª edição da **Semana DevSuperior**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em uma plataforma de pedidos para entrega.
 
-## Layout web
+## Layout Web
 ![Web 1](https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/web1.png "Tela início")
 
 ![Web 2](https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/web2.png "Tela fazer pedido")
 
-## Modelo conceitual
+## Modelo Conceitual
 ![Modelo Conceitual](https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/modelo-conceitual.png)
 
 # Tecnologias Utilizadas
-## Back end
+### Back-end
 - Java
 - Spring 
-## Front end
+### Front-end
 - HTML 
 - CSS  
 - JavaScript 
 - TypeScript
 - React
-## Deploy
+### Deploy
 - Back-end: Heroku
 - Front-end Web: Netlify
 - Banco de Dados: PostgreSQL
@@ -34,7 +34,7 @@ A aplicação consiste em uma plataforma de pedidos para entrega.
 # clonar o repositório
 git clone https://github.com/4L1C3-R4BB1T/sds2-dsdeliver.git
 ```
-## Back-end
+### Back-end
 ```bash
 # entrar na pasta backend
 cd backend
@@ -43,7 +43,7 @@ cd backend
 ./mvnw spring-boot:run
 ```
 
-## Front-end Web
+### Front-end Web
 Necessário ter o npm 
 
 ```bash
