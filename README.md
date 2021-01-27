@@ -44,15 +44,15 @@ cd backend
 ```
 
 ### Front-end Web
-Necessário ter o npm 
+Necessário ter o npm / yarn
 
 ```bash
 # entrar na pasta front-web
 cd front-web
 
 # instalação das dependências
-npm install
+npm install / yarn install
 
 # executar o projeto
-npm start
+npm start / yarn start
 ```
