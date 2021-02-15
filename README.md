@@ -2,9 +2,11 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/blob/main/LICENSE) 
 
 # Sobre o projeto
-DS Delivery é uma aplicação construída durante a 2ª edição da **Semana DevSuperior**, evento organizado pela **DevSuperior**.
+DS Delivery é uma aplicação construída durante a 2ª edição da **Semana DevSuperior**, evento organizado pela [DevSuperior](https://devsuperior.com.br "Site da DevSuperior").
 
-A aplicação consiste em uma plataforma de pedidos para entrega.
+A aplicação consiste em um sistema de delivery.
+
+O pedido é feito através da aplicação web e o gerenciamento é feito através da aplicação mobile, onde se pode iniciar a navegação ou confirmar a entrega, além de se poder ver os detalhes do pedido.
 
 ## Layout Web
 ![Web 1](https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/web1.png "Tela início")
@@ -24,6 +26,7 @@ A aplicação consiste em uma plataforma de pedidos para entrega.
 - JavaScript 
 - TypeScript
 - React
+- React Native
 ### Deploy
 - Back-end: Heroku
 - Front-end Web: Netlify
@@ -56,3 +59,20 @@ npm install / yarn install
 # executar o projeto
 npm start / yarn start
 ```
+
+### Front-end Mobile
+Necessário ter um smartphone com o [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent "Aplicativo") instalado <br>
+**O smartphone e o PC precisam estar na mesma rede**
+
+```bash
+# entrar na pasta front-mobile
+cd front-mobile
+
+# instalação das dependências
+npm install / yarn install
+
+# executar o projeto
+npm start / yarn start
+```
+- Abra o aplicativo do **Expo** <br>
+- Scaneie o **QR** Code que aparecer no seu navegador no PC
