@@ -75,4 +75,4 @@ npm install / yarn install
 npm start / yarn start
 ```
 - Abra o aplicativo do **Expo** <br>
-- Scaneie o **QR** Code que aparecer no seu navegador no PC
+- Scaneie o **QR Code** que aparecer no seu navegador no PC
