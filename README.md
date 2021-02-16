@@ -13,6 +13,11 @@ O pedido é feito através da aplicação web e o gerenciamento é feito atravé
 
 ![Web 2](https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/web2.png "Tela fazer pedido")
 
+## Layout Mobile
+![Mobile 1](https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/mobile1.png "Tela início")
+![Mobile 2](https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/mobile2.png "Tela pedidos")
+![Mobile 3](https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/mobile3.png "Tela detalhes do pedido")
+
 ## Modelo Conceitual
 ![Modelo Conceitual](https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/modelo-conceitual.png)
 
