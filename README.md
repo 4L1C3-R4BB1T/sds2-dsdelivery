@@ -9,14 +9,12 @@ A aplicação consiste em um sistema de delivery.
 O pedido é feito através da aplicação web e o gerenciamento é feito através da aplicação mobile, onde se pode iniciar a navegação ou confirmar a entrega, além de se poder ver os detalhes do pedido.
 
 ## Layout Web
-![Web 1](https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/web1.png "Tela início")
-
-![Web 2](https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/web2.png "Tela fazer pedido")
+<img height="440" src="https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/web1.png" alt="Web 1" title="Tela início">
+<img height="440" src="https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/web2.png" alt="Web 2" title="Tela fazer pedido">
 
 ## Layout Mobile
-![Mobile 1](https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/mobile1.png "Tela início")
-![Mobile 2](https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/mobile2.png "Tela pedidos")
-![Mobile 3](https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/mobile3.png "Tela detalhes do pedido")
+<img height="400" src="https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/mobile1.png" alt="Mobile 1" title="Tela início"> <img height="400" src="https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/mobile2.png" alt="Mobile 2" title="Tela pedidos"> 
+<img height="400" src="https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/mobile3.png" alt="Mobile 3" title="Tela detalhes do pedido"> 
 
 ## Modelo Conceitual
 ![Modelo Conceitual](https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/modelo-conceitual.png)
@@ -80,4 +78,4 @@ npm install / yarn install
 npm start / yarn start
 ```
 - Abra o aplicativo do **Expo** <br>
-- Scaneie o **QR Code** que aparecer no seu navegador no PC
+- Scaneie o **QR Code** que aparecer no seu navegador no PC ou no terminal
