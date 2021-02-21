@@ -57,10 +57,10 @@ Necessário ter o npm / yarn
 cd front-web
 
 # instalação das dependências
-npm install / yarn install
+npm install
 
 # executar o projeto
-npm start / yarn start
+npm start
 ```
 
 ### Front-end Mobile
@@ -72,10 +72,10 @@ Necessário ter um smartphone com o [Expo](https://play.google.com/store/apps/de
 cd front-mobile
 
 # instalação das dependências
-npm install / yarn install
+npm install
 
 # executar o projeto
-npm start / yarn start
+npm start
 ```
 - Abra o aplicativo do **Expo** <br>
-- Scaneie o **QR Code** que aparecer no seu navegador no PC ou no terminal
+- Scaneie o **QR Code** que aparecer no navegador ou no terminal
