@@ -9,8 +9,8 @@ A aplicação consiste em um sistema de delivery.
 O pedido é feito através da aplicação web e o gerenciamento é feito através da aplicação mobile, onde se pode iniciar a navegação ou confirmar a entrega, além de se poder ver os detalhes do pedido.
 
 ## Layout Web
-<img height="440" src="https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/web1.png" alt="Web 1" title="Tela início">
-<img height="440" src="https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/web2.png" alt="Web 2" title="Tela fazer pedido">
+![Web 1](https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/web1.png "Tela início")
+![Web 2](https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/web2.png "Tela fazer pedido")
 
 ## Layout Mobile
 <img height="400" src="https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/mobile1.png" alt="Mobile 1" title="Tela início"> <img height="400" src="https://github.com/4L1C3-R4BB1T/sds2-dsdeliver/raw/main/_assets/mobile2.png" alt="Mobile 2" title="Tela pedidos"> 
